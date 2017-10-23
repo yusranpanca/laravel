@@ -1,0 +1,3 @@
+[ ] session with flash message
+[ ] many to many
+[ ] morph many
